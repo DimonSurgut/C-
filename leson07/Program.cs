@@ -1,4 +1,9 @@
-﻿Console.Write("ВВедите число");
+﻿// Напишите программу, которая принимает на вход
+// трёхзначное число и на выходе показывает последнюю цифру
+// этого числа.
+
+
+Console.Write("ВВедите число");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number<0)
     number = -number;
