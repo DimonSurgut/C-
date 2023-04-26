@@ -1,10 +1,5 @@
 ﻿// Принимает на вход коодинаты двух точек
-// и находит растояние между ними 
-
-// double b = Math.Sqrt(5);
-// double b1 = 5.03455;
-// double b1Round = Math.Round (b1, 2, MidpointRounding.ToZero);
-// Console.WriteLine(b1Round);
+// и находит растояние между ними в 3D простроанстве
 
 Console.WriteLine ("Введите координаты A");
 Console.Write ("значение х  ");

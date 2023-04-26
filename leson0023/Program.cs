@@ -13,7 +13,7 @@ void TableAllSquares(int num)
     int count = 1;
     while (count <= num)
     {
-    Console.WriteLine($"{count}   {count * count}   {count * count * count}");
+    Console.WriteLine($"{count}   {count * count * count}");
     count++;
     }
 }
